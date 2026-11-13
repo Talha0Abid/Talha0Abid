@@ -1,0 +1,58 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="48"
+     height="48"
+     viewBox="0 0 48 48">
+
+  <defs>
+    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="48" height="48" rx="11" fill="#252A3A"/>
+
+  <!-- CPU pins -->
+  <g stroke="url(#chip)" stroke-width="2"
+     stroke-linecap="round">
+    <path d="M15 5V10 M23 5V10 M31 5V10"/>
+    <path d="M15 38V43 M23 38V43 M31 38V43"/>
+    <path d="M5 15H10 M5 23H10 M5 31H10"/>
+    <path d="M38 15H43 M38 23H43 M38 31H43"/>
+  </g>
+
+  <!-- CPU body -->
+  <rect x="10" y="10" width="28" height="28"
+        rx="5" fill="#171C2C"
+        stroke="url(#chip)" stroke-width="1.6"/>
+
+  <!-- Processor detail -->
+  <path d="M15 16H19 M15 19H17"
+        stroke="#A78BFA"
+        stroke-width="1.2"
+        stroke-linecap="round"/>
+
+  <!-- Architecture -->
+  <text x="24" y="27"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="12"
+        font-weight="800"
+        fill="#FFFFFF">x86</text>
+
+  <!-- Assembly label -->
+  <path d="M16 30H32"
+        stroke="#8B5CF6"
+        stroke-width="1"/>
+
+  <text x="24" y="35"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="5.5"
+        font-weight="700"
+        letter-spacing="1.2"
+        fill="#93C5FD">ASM</text>
+
+</svg>
