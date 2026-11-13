@@ -5,8 +5,9 @@
   Flutter & Dart developer building mobile and desktop apps
 </p>
 
+
 <p align="center">
-  <img src="koi/koi.gif" width="400" alt="My koi">
+  <img src="koi/koi.gif" width="256" alt="My koi">
 </p>
 
 ---
