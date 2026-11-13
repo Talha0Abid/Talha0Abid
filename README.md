@@ -1,3 +1,7 @@
-## Hi there 👋
+## Hi, I'm Talha 👋
 
-<img src="koi/koi.gif" width="256" alt="My koi">
+CS Engineering student (AI) | Flutter & Dart developer | Building mobile & desktop apps
+
+<p align="center">
+  <img src="koi/koi.gif" width="400" alt="My koi">
+</p>
