@@ -47,6 +47,6 @@ Feel free to reach out to me for discussions, collaborations, or opportunities!
 </p>
 
 <p align="center">
-  <img src="koi/koi.gif" width="230" alt="My koi">
+  <img src="koi/koi.gif" width="280" alt="My koi">
 </p>
 
