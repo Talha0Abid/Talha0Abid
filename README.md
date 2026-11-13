@@ -40,3 +40,13 @@ Feel free to reach out to me for discussions, collaborations, or opportunities!
 - 📧 **Email:** [tabid761@gmail.com](mailto:tabid761@gmail.com)
 - 💼 **LinkedIn:** [Talha Abid](https://www.linkedin.com/in/talha-abid-0518833ba/)
 
+##
+
+<p align="center">
+  <h3 align="center">Meet my little buddy 🐟</h3>
+</p>
+
+<p align="center">
+  <img src="koi/koi.gif" width="230" alt="My koi">
+</p>
+
