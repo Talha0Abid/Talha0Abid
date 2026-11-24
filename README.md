@@ -43,7 +43,7 @@ Beyond application development, I enjoy low-level programming with **C and x86 A
 
 Feel free to reach out to me for discussions, collaborations, or opportunities!
 
-- 📧 **Email:** [tabid761@gmail.com](mailto:tabid761@gmail.com)
+- 📧 **Email:** [talhaabid014@gmail.com](mailto:talhaabid014@gmail.com)
 - 💼 **LinkedIn:** [Talha Abid](https://www.linkedin.com/in/talha-abid-0518833ba/)
 
 ##
