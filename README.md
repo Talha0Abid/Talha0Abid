@@ -32,7 +32,7 @@ Beyond application development, I enjoy low-level programming with **C and x86 A
 
 ### Tools & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=windows,vscode,git,linux" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,vscode,git" />
 </p>
 
 
